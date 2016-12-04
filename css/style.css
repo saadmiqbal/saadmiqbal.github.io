@@ -1,0 +1,44 @@
+.profilepic {
+  max-width: 100%
+}
+
+.bar1::-webkit-progress-value {
+	background-color: gold !important;
+} 
+
+.bar2::-webkit-progress-value {
+	background-color: gold !important;
+} 
+
+.bar3::-webkit-progress-value {
+	background-color: green !important;
+} 
+
+.bar4::-webkit-progress-value {
+	background-color: green !important;
+} 
+
+.bar5::-webkit-progress-value {
+	background-color: green !important;
+} 
+
+
+.dubaicover{
+	max-width: 100%;
+}
+
+body {background-color: lightblue;
+}
+
+.card-block {background-color: lightblue;
+}
+
+.card {
+	border: none;
+}
+
+.card {background-color: lightblue;
+}
+
+.card-footer {background-color: lightblue;
+}
